@@ -39,7 +39,7 @@ List the ready features here:
 
 ## Screenshots
 
-![Preview](https://github.com/[RockPiryt]/[Baby_food_app]/blob/[main]/preview.jpeg?raw=true)
+![Preview](https://github.com/RockPiryt/Baby_food_app/blob/main/preview.jpeg?raw=true)
 
 ## Setup
 
