@@ -1,3 +1,8 @@
 venv/
 Desc_app.odt
 Food_size.ods
+Food_size.csv
+data.py
+__pycache__/
+app_description.pdf
+
